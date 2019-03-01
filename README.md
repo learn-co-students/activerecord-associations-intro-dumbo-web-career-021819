@@ -139,7 +139,7 @@ Great! Now go ahead and run `rake db:migrate` in your terminal to execute our ta
 
 ### What is a macro?
 
-A macro is a method that writes code for us (think metaprogramming). By invoking a few methods that come with Active Record, we can implement all of the associations we've been discussing. 
+A macro is a method that writes code for us (think meta-programming). By invoking a few methods that come with Active Record, we can implement all of the associations we've been discussing. 
 
 We'll be using the following AR macros (or methods):
 
